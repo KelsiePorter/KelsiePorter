@@ -1,7 +1,7 @@
 - 👋 Hi! I’m Kelsie, Event Planner turned Software Engineer & Scrum Master.
 - 🌱 I’m currently studying back-end software engineering at Turing School of Software & Design (ACCET-accredited program). 
 - 🏔 In my free time, you’ll find me reading, hiking, skiing, traveling, or hanging out on the patio of my local brewery!
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/kelsie-porter/)
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/kelsie-porter/)
 
 <!---
 KelsiePorter/KelsiePorter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
